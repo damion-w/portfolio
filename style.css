@@ -1,0 +1,10 @@
+.page {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    display: flex;
+    color: red;
+    background: blue;
+}
