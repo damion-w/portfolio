@@ -1,7 +1,7 @@
 .page {
     display: flex;
     flex-direction: column;
-    margin: 1vw 2vw 0 2vw;
+    margin: 5vh 3vw 5vh 3vw;
 }
 
 .nav-bar {
@@ -40,11 +40,18 @@
 
 .title {
     display: flex;
+    flex-direction: column;
     justify-content: center;
-    margin: 15vh 0 0 0;
+    margin: 10vh 0 10vh 0;
     font-family: muli, sans-serif;
     font-weight: 600;
     font-style: normal;
+}
+
+.title h1 {
+    display: flex;
+    justify-content: center;
+    margin: 0vh 0 0vh 0;
 }
 
 .section-title {
