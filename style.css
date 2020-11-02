@@ -65,3 +65,20 @@
     font-weight: 400;
     font-style: normal;
 }
+
+.project-table {
+    display: flex;
+    flex-direction: row;
+}
+
+.project-cell {
+    display: flex;
+    flex-direction: column;
+    background: red;
+    border: solid 1px black;
+}
+
+.screenshot {
+    width: 100%;
+    height: auto;
+}
