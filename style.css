@@ -4,7 +4,7 @@ body, html {
 }
 
 body {
-    background: #2F2F2F;
+    background: #202224;
     font-family: muli, sans-serif;
 }
 
@@ -145,7 +145,7 @@ body {
     letter-spacing: -2px;
 }
 
-.tech-list {
+.tech-list, .tech-desc {
     color: #8A8A8A;
     list-style: circle;
 }
